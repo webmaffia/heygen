@@ -16,7 +16,7 @@ const fontMono = FontMono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Webmaffia - Chat bot",
+    default: "Webmaffia - Chatbot",
     template: `%s - HeyGen Interactive Avatar SDK Demo`,
   },
   icons: {
